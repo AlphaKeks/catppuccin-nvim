@@ -9,8 +9,8 @@ local ucolors = require("catppuccin.utils.colors")
 local latte = require("catppuccin.palettes.latte")
 
 local assets = {
-	left_separator = "",
-	right_separator = "",
+	left_separator = "",
+	right_separator = "",
 	bar = "█",
 	mode_icon = "",
 	dir = "  ",
