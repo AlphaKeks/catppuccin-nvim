@@ -68,7 +68,7 @@ function M.get()
 		Visual = { bg = cp.surface1, style = { "bold" } }, -- Visual mode selection
 		VisualNOS = { bg = cp.surface1, style = { "bold" } }, -- Visual mode selection when vim is "Not Owning the Selection".
 		WarningMsg = { fg = cp.yellow }, -- warning messages
-		Whitespace = { fg = cp.surface1 }, -- "nbsp", "space", "tab" and "trail" in 'listchars'
+		Whitespace = { fg = cp.surface2 }, -- "nbsp", "space", "tab" and "trail" in 'listchars'
 		WildMenu = { bg = cp.overlay0 }, -- current match in 'wildmenu' completion
 		WinBar = { fg = cp.rosewater },
 		-- These groups are not listed as default vim groups,
